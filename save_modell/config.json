@@ -1,0 +1,6 @@
+{
+  "max_seq_len": 30,
+  "vocab_size": 15000,
+  "embed_dim": 128,
+  "lstm_units": 256
+}
